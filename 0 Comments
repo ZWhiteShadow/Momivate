@@ -1,0 +1,22 @@
+Momivate wanted me to remove 0 comments.
+
+This should work:
+
+https://community.weebly.com/t5/Site-Editor/How-do-i-remove-comments/td-p/24394
+
+But permanently closing comments shows "0 comments" next to each title, which makes it look like you have no readers...
+
+However, in those comments someone posted a work-around using a small snippet of code in their SEO header section on the blog page. Click on Pages at the top of the editor. And then your blog page on the left hand side. Click SEO, then paste this in the Header area. Make sure to publish for the changes for this to work. Hope this helps!
+
+
+<style>
+    div.blog-comment-area { display:none; }
+</style>
+
+<style>
+    div.blog-comments-bottom { display:none; }
+</style>
+
+<style>
+p.blog-comments { display:none; }
+</style>
