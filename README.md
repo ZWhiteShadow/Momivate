@@ -15,6 +15,6 @@ Meeting to discus changing over to wordpress
 -Changed Form on main page so it looks good on mobile!
 
 6/15
-  Signed up for bluehost 
-  Setup Wordpress account
+1. Signed up for bluehost 
+2. Setup Wordpress account
 
