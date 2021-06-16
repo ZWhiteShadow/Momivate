@@ -1,5 +1,5 @@
 # Momivate
-Volunteer for Momivate.com / Moviate.org - Code Changes for
+Volunteer for Momivate.com / Moviate.org:
 
 6/5 - Helped with re-direct from Momivate.com -> Momivate.org 
 
@@ -13,4 +13,8 @@ Volunteer for Momivate.com / Moviate.org - Code Changes for
 6/12
 Meeting to discus changing over to wordpress
 -Changed Form on main page so it looks good on mobile!
+
+6/15
+- Signed up for bluehost 
+= Setup Wordpress account
 
