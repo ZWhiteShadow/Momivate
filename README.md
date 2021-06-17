@@ -17,4 +17,10 @@ Meeting to discus changing over to wordpress
 6/15
 1. Signed up for bluehost 
 2. Setup Wordpress account
+3. Was given acess to Wordpress for Momivator.com temp website until it is ready
+
+6/16
+1. Was given acess to BlueHost service to help setup new website.
+
+
 
