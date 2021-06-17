@@ -21,6 +21,7 @@ Meeting to discus changing over to wordpress
 
 6/16
 1. Was given acess to BlueHost service to help setup new website.
+2. Enabled SSL 
 
 
 
