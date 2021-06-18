@@ -21,7 +21,12 @@ Meeting to discus changing over to wordpress
 
 6/16
 1. Was given acess to BlueHost service to help setup new website.
-2. Enabled SSL 
+2. Enabled SSL on original page
 
+6/17
+1. Used FileZilla to upload pages to online bluehost server
+2. Uploaded and installd plugin WP File Manger
+3. Moved content to public_html
+4. Confirmed can see basic website (Navigation not working) - Some pictures not loading.
 
 
