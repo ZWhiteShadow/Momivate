@@ -29,4 +29,11 @@ Meeting to discus changing over to wordpress
 3. Moved content to public_html
 4. Confirmed can see basic website (Navigation not working) - Some pictures not loading.
 
+6/18
+1. Attempted to important get WXR file https://weeblytowp.com/ timed out. 
+2. Researched discovered this was due to website being to large
+3. Looked into options on freelancer.com for help with migration
+4. Best option was $250 explained this to client
+5. No budget for this. Will have to do by hand or find other ways to do it.
+
 
