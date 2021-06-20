@@ -36,4 +36,6 @@ Meeting to discus changing over to wordpress
 4. Best option was $250 explained this to client
 5. No budget for this. Will have to do by hand or find other ways to do it.
 
+6/19
+1. Attempted https://shifttowp.com/ as a solution. No email back from the website :( 
 
