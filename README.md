@@ -40,10 +40,8 @@ Meeting to discus changing over to wordpress
 1. Attempted https://shifttowp.com/ as a solution. No email back from the website :( 
 
 6/21
-   A. Things done today:
 1. Used http://weeblytowp.com to pull over most overythign but blogs 50+ pages
 2. Used RSS feed import to pull over 50 blog posts
 3. RSS only pulls over most recent pages will have to delete posts to get the older ones via RSS
-   B. Next steps:
-1. Waiting on confirmation via client to go ahead with this process
-2. Will need to work on the "Wall of Honor"
+4. Waiting on confirmation via client to go ahead with this process
+5. Will need to work on the "Wall of Honor"
